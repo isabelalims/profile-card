@@ -88,7 +88,7 @@ body{
 }
 
 @media (min-width:1440px){
-    #background .c1, #background .c1, #card{
+    #background .c1, #background .c1{
         width: 100%;
         align-items: center;
     }
